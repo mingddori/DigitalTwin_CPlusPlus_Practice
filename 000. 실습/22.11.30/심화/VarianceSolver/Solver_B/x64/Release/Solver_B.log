@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  Solver_B.cpp
+     C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\22.11.30\심화\VarianceSolver\lib\Solver_B_x64.lib 라이브러리 및 C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\22.11.30\심화\VarianceSolver\lib\Solver_B_x64.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Solver_B.vcxproj -> C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\22.11.30\심화\VarianceSolver\lib\Solver_B_x64.dll

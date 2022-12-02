@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  PingPongTable.cpp
+C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\22.12.02\실습\PingPong\PingPongTableDll\PingPongTable.h(51,53): warning C4190: 'GetWhoAttacked'에 C 연결을 지정했으나 C와 호환되지 않는 UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'을(를) 반환합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(5294,17): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' 선언을 참조하십시오.
+     C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\22.12.02\실습\PingPong\lib\PingPongTableDlld_x64.lib 라이브러리 및 C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\22.12.02\실습\PingPong\lib\PingPongTableDlld_x64.exp 개체를 생성하고 있습니다.
+  PingPongTableDll.vcxproj -> C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\22.12.02\실습\PingPong\lib\PingPongTableDlld_x64.dll

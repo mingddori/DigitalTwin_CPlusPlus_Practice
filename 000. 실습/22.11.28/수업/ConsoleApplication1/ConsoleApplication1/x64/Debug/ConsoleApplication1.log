@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  ConsoleApplication1.vcxproj -> C:\Users\KOSA\MS\002. 수업\003. M&S\000. 실습\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

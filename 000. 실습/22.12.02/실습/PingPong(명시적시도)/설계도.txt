@@ -1,0 +1,18 @@
+<PingPong>
+
+- PingPongTableDll - 
+String who_attacked : "A"/"B"
+Bool attack_success : T/F
+int score_A / socre_B
+void setWhoAttacked(String)
+void setAttackSuccess(Bool)
+String getWhoAttacked()
+bool getAttackSuccess()
+... Get/Set ScoreA/B()
+
+
+- Plater A / B -
+string player type : "A" /  "B"
+bool attack_success : T/F
+Attack - 확률 계산해서 성공 실패 반환
+Main() - while로 반복
